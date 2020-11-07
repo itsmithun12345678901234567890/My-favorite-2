@@ -1,0 +1,36 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+}
+
+img 
+{
+    border-radius: 50%;
+    width:100px;
+}
+
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+#myname{
+    font-family: 'Courgette', cursive;
+}
+
+li {
+  display: inline;
+    background-color: deepskyblue;
+font-weight: bold;
+color:white;
+    border: 5px;
+    border-color: black;
+}
+
